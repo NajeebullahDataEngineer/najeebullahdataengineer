@@ -3,7 +3,7 @@
 <p align="center">
   <b>Freelance Data Engineer | AI Enthusiast</b><br>
   <a href="mailto:najeebullah.data.engineer@gmail.com">📧 Email</a> |
-  <a href="https://www.linkedin.com/in/YOUR-LINK/">💼 LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/YOUR-LINK/">💼 LinkedIn</a>
 </p>
 
 ---
