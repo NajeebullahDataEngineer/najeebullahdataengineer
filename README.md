@@ -2,9 +2,7 @@
 
 <p align="center">
   <b>Freelance Data Engineer | AI Enthusiast</b><br>
-  <a href="mailto:najeebullah.data.engineer@gmail.com">📧 Email</a> |
-  <a href="https://www.linkedin.com/in/YOUR-LINK/">💼 LinkedIn</a>
-</p>
+
 
 ---
 
@@ -55,7 +53,9 @@ I’m Najeebullah, a Freelance Data Engineer at Fiverr.
 ### 📫 Contact
 For freelance collaborations or project discussions:  
 📧 najeebullah.data.engineer@gmail.com
-
+  <a href="mailto:najeebullah.data.engineer@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/YOUR-LINK/">💼 LinkedIn</a>
+</p>
 ---
 
-    **Thanks for visiting my GitHub!**
+
