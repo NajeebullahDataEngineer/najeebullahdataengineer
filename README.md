@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I'm Najeebullah</h1>
 
-<p align="center">
-  <b>Freelance Data Engineer | AI Enthusiast</b><br>
 
 ---
 
