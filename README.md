@@ -16,15 +16,15 @@
 
 ### ⚙️ Tech Stack
 
-Databricks
-Apache Spark 
-Airflow
-Python
-SQL
-Docker
-Flink
-dbt-core
-Iceberg 
+- Databricks
+- Apache Spark 
+- Airflow
+- Python
+- SQL
+- Docker
+- Flink
+- dbt-core
+- Iceberg 
 
 ---
 
