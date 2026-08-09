@@ -16,20 +16,20 @@
 
 ### ⚙️ Tech Stack
 
-1. Databricks
-2. Apache Spark 
-3. Airflow
-4. Python
-5. SQL
-6. Docker
-7. Flink
-8. dbt-core
-9. Iceberg 
+Databricks
+Apache Spark 
+Airflow
+Python
+SQL
+Docker
+Flink
+dbt-core
+Iceberg 
 
 ---
 
 ### 🚀 Current Experiments
-Exploring Open Table Formats and Data Warehousing skills and techniques. 
+Exploring Open Table Formats and Data Warehousing! 
 
 ---
 
